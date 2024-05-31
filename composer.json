@@ -39,7 +39,6 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "ArtisanBuild\\Support\\": "src/",
             "ArtisanBuild\\Support\\Tests\\": "tests/",
             "Workbench\\App\\": "workbench/app/"
         }
